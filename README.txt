@@ -1,3 +1,3 @@
-A Pen created at CodePen.io. You can find this one at http://codepen.io/motorlatitude/pen/JFkro.
+Mywebsite is free template of login page for a website.
 
- Just playing around with login forms
+Fork this repo and start contributing to this communtiy.
